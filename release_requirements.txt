@@ -3,7 +3,7 @@
 
 # download-wheels.py
 urllib3
-beatifulsoup4
+beautifulsoup4
 
 # changelog.py
 pygithub
